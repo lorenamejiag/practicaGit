@@ -12,6 +12,8 @@ public class Main {
         System.out.println("Hola mundo");
         System.out.println("Hola mundo");
         System.out.println("Hola mundo");
+        for (int I=0; I < 10; I++);
+        System.out.println();
 
     }
 }
